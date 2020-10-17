@@ -11,6 +11,7 @@ The dataset is composed of two columns: Date and Profit/Losses. So, I created a 
 - The greatest decrease in losses (date and amount) over the entire period
 
 My final script can print the analysis to the terminal and export a text file with the results. The text file is named web_final.txt
+The Python script, csv file and output text file for this challenge are saved in PyBank folder. 
 
 
 
@@ -27,4 +28,8 @@ The dataset is composed of three columns: Voter ID, County, and Candidate. I cre
 - The winner of the election based on popular vote
 
 My final script can print the analysis to the terminal and export a text file with the results. The text file is named web_final.txt
+The Python script, csv file and output text file for this challenge are saved in PyPoll folder. 
+
+
+
 
