@@ -9,6 +9,11 @@ The dataset is composed of two columns: Date and Profit/Losses. So, I created a 
 - The average of the changes in "Profit/Losses" over the entire period
 - The greatest increase in profits (date and amount) over the entire period
 - The greatest decrease in losses (date and amount) over the entire period
+My final script can print the analysis to the terminal and export a text file with the results. The text file is named web_final.txt
+
+
+
+
  
 
 *******PyPoll*******
@@ -18,4 +23,6 @@ The dataset is composed of three columns: Voter ID, County, and Candidate. I cre
 - A complete list of candidates who received votes
 - The percentage of votes each candidate won
 - The total number of votes each candidate won
-- The winner of the election based on popular vote. 
+- The winner of the election based on popular vote
+My final script can print the analysis to the terminal and export a text file with the results. The text file is named web_final.txt
+
