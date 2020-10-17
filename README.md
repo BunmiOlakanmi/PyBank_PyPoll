@@ -10,8 +10,8 @@ The dataset is composed of two columns: Date and Profit/Losses. So, I created a 
 - The greatest increase in profits (date and amount) over the entire period
 - The greatest decrease in losses (date and amount) over the entire period
 
-My final script can print the analysis to the terminal and export a text file with the results. The text file is named web_final.txt
-The Python script, csv file and output text file for this challenge are saved in PyBank folder. 
+My final script can print the analysis to the terminal and export a text file with the results. The text file is named PyBank_Analysis.txt, which is saved in the Analysis folder. The csv file for this challenge is saved in the Resources folder.
+The Python script, Resources folder and the Analysis folder for this challenge are saved in PyBank folder. 
 
 
 
@@ -27,8 +27,8 @@ The dataset is composed of three columns: Voter ID, County, and Candidate. I cre
 - The total number of votes each candidate won
 - The winner of the election based on popular vote
 
-My final script can print the analysis to the terminal and export a text file with the results. The text file is named web_final.txt
-The Python script, csv file and output text file for this challenge are saved in PyPoll folder. 
+My final script can print the analysis to the terminal and export a text file with the results. The text file is named Pypoll_Analysis.txt, which is saved in the Analysis folder. The csv file for this challenge is saved in the Resources folder. 
+The Python script, Resources folder, and the Analysis folder for this challenge are saved in PyPoll folder. 
 
 
 
