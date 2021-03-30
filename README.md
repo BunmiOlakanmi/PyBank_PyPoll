@@ -1,5 +1,27 @@
-# python-challenge
-There are two parts to this challenge - PyBank and PyPoll
+# Analyzing Financial Records and Votes
+
+There are two parts to this project - PyBank and PyPoll. 
+
+## Tools used in this project
+1. Python
+   Libraries:
+   - Pandas
+   - Numpy
+   - Requests
+   - OS
+
+## PyBank
+The purpose of PyBank is to analyse the financial records of a company. financial data is given on a csv file. The dataset is composed of two columns: Date and Profit/Losses. So, the goal is to write a python script to calculate each of the following:
+- The total number of months included in the dataset
+- The net total amount of "Profit/Losses" over the entire period
+- The average of the changes in "Profit/Losses" over the entire period
+- The greatest increase in profits (date and amount) over the entire period
+- The greatest decrease in losses (date and amount) over the entire period
+The output is supposed to be printed on the console and also saved to a text file.
+
+
+
+
 
 ******PyBank******
 In this challenge, I created a Python script to analyze the financial records of a company. The financial data given is called budget_data.csv. 
