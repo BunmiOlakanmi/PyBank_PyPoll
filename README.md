@@ -5,9 +5,7 @@ There are two parts to this project - PyBank and PyPoll.
 ## Tools used in this project
    1. Python
       Libraries:
-      - Pandas
-      - Numpy
-      - Requests
+      - csv
       - OS
    2. Visual Studio Code
 
