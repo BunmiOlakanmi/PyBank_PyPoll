@@ -48,7 +48,8 @@ The Python script, Resources folder and the Analysis folder for this challenge a
 In this challenge, I was tasked with helping a small, rural town modernize its vote counting process. I was given a set of poll data called election_data.csv. 
 The dataset is composed of three columns: Voter ID, County, and Candidate. I created a Python script that analyzed the votes to calculate each of the following:
 - The total number of votes cast
-- A complete list of candidates who received votes
+- A complete list of candidates who received votes<img width="393" alt="Pybank" src="https://user-images.githubusercontent.com/71471355/113071919-fa892500-9182-11eb-9dff-44886d79ff0e.png">
+
 - The percentage of votes each candidate won
 - The total number of votes each candidate won
 - The winner of the election based on popular vote
