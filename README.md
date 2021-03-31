@@ -37,23 +37,13 @@ The purpose of PyPoll is to help a small, rural town modernize its vote counting
    - The total number of votes each candidate won
    - The winner of the election based on popular vote
 
+### Instructions
+1. To run this code, ensure that all the above libraries are installed in your environment.
+2. Open the terminal on the PyBank folder on your computer.
+3. Run python PyPoll.py 
 
+<img width="224" alt="PyPoll" src="https://user-images.githubusercontent.com/71471355/113074142-bfd5bb80-9187-11eb-98ec-f4f439456b2e.png">
 
-
- 
-
-*******PyPoll*******
-In this challenge, I was tasked with helping a small, rural town modernize its vote counting process. I was given a set of poll data called election_data.csv. 
-The dataset is composed of three columns: Voter ID, County, and Candidate. I created a Python script that analyzed the votes to calculate each of the following:
-- The total number of votes cast
-- A complete list of candidates who received votes
-
-- The percentage of votes each candidate won
-- The total number of votes each candidate won
-- The winner of the election based on popular vote
-
-My final script can print the analysis to the terminal and can also export a text file with the results. The text file is named Pypoll_Analysis.txt, which is saved in the Analysis folder. The csv file (election_data.csv) for this challenge is saved in the Resources folder. 
-The Python script, Resources folder, and the Analysis folder for this challenge are saved in PyPoll folder. 
 
 
 
