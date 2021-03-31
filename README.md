@@ -45,6 +45,13 @@ The purpose of PyPoll is to help a small, rural town modernize its vote counting
 <img width="224" alt="PyPoll" src="https://user-images.githubusercontent.com/71471355/113074142-bfd5bb80-9187-11eb-98ec-f4f439456b2e.png">
 
 
+## File Description
+****PyBank*****
+1. PyBank folder contains PyBank.py file, Resources and Analysis folders. 
+2. PyBank.py file contains the necessary code to analyse the financial records of the company.
+3. Resources folder contains the budget_data.csv file, which contains the data used for the analysis.
+4. Analysis folder contains the PyBank_Analysis.txt file, which presents the output of our analysis.
 
-
+****PyPoll*****
+1.  
 
