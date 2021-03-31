@@ -20,13 +20,7 @@ The purpose of PyBank is to analyse the financial records of a company. financia
 - The greatest decrease in losses (date and amount) over the entire period
 The output is supposed to be printed on the console and also saved to a text file.
 
-Financial Analysis 
-------------------------------------------------------- 
-Total Months: 86 
-Total: $38382578 
-Average Change: $-2315.12 
-Greatest Increase in Profits: Feb-2012 ($1926159) 
-Greatest Decrease in Profits: Sep-2013 ($-2196167) 
+<img width="393" alt="Pybank" src="https://user-images.githubusercontent.com/71471355/113071919-fa892500-9182-11eb-9dff-44886d79ff0e.png">
 
 
 ******PyBank******
@@ -48,7 +42,7 @@ The Python script, Resources folder and the Analysis folder for this challenge a
 In this challenge, I was tasked with helping a small, rural town modernize its vote counting process. I was given a set of poll data called election_data.csv. 
 The dataset is composed of three columns: Voter ID, County, and Candidate. I created a Python script that analyzed the votes to calculate each of the following:
 - The total number of votes cast
-- A complete list of candidates who received votes<img width="393" alt="Pybank" src="https://user-images.githubusercontent.com/71471355/113071919-fa892500-9182-11eb-9dff-44886d79ff0e.png">
+- A complete list of candidates who received votes
 
 - The percentage of votes each candidate won
 - The total number of votes each candidate won
