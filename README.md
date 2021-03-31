@@ -22,18 +22,15 @@ The output is supposed to be printed on the console and also saved to a text fil
 
 <img width="393" alt="Pybank" src="https://user-images.githubusercontent.com/71471355/113071919-fa892500-9182-11eb-9dff-44886d79ff0e.png">
 
+### Instructions
+1. To run this code, ensure that all the above libraries are installed in your environment.
+2. Open the terminal on the PyBank folder on your computer.
+3. Run python Pybank.py 
 
-******PyBank******
-In this challenge, I created a Python script to analyze the financial records of a company. The financial data given is called budget_data.csv. 
-The dataset is composed of two columns: Date and Profit/Losses. So, I created a Python script that analyzed the records to calculate each of the following:
-- The total number of months included in the dataset
-- The net total amount of "Profit/Losses" over the entire period
-- The average of the changes in "Profit/Losses" over the entire period
-- The greatest increase in profits (date and amount) over the entire period
-- The greatest decrease in losses (date and amount) over the entire period
+<img width="393" alt="Pybank" src="https://user-images.githubusercontent.com/71471355/113071919-fa892500-9182-11eb-9dff-44886d79ff0e.png">
 
-My final script can print the analysis to the terminal and can also export a text file with the results. The text file is named PyBank_Analysis.txt, which is saved in the Analysis folder. The csv file (budget_data.csv) for this challenge is saved in the Resources folder.
-The Python script, Resources folder and the Analysis folder for this challenge are saved in PyBank folder. 
+
+
 
 
  
