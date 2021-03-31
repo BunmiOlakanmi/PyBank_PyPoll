@@ -9,6 +9,7 @@ There are two parts to this project - PyBank and PyPoll.
    - Numpy
    - Requests
    - OS
+2. Visual Studio Code
 
 ## PyBank
 The purpose of PyBank is to analyse the financial records of a company. financial data is given on a csv file. The dataset is composed of two columns: Date and Profit/Losses. So, the goal is to write a python script to calculate each of the following:
@@ -19,8 +20,13 @@ The purpose of PyBank is to analyse the financial records of a company. financia
 - The greatest decrease in losses (date and amount) over the entire period
 The output is supposed to be printed on the console and also saved to a text file.
 
-
-
+Financial Analysis 
+------------------------------------------------------- 
+Total Months: 86 
+Total: $38382578 
+Average Change: $-2315.12 
+Greatest Increase in Profits: Feb-2012 ($1926159) 
+Greatest Decrease in Profits: Sep-2013 ($-2196167) 
 
 
 ******PyBank******
