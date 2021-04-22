@@ -33,7 +33,7 @@ The output is supposed to be printed on the console and also saved to a text fil
 
 ## PyPoll
 
-The purpose of PyPoll is to help a small, rural town modernize its vote counting process, using their poll data. The dataset is composed of three columns: Voter ID, County, and Candidate. The goal is to create a Python script that analyzes the votes, and can calculate each of the following:
+The purpose of PyPoll is to help a small, rural town modernize their vote counting process, using their poll data. The dataset is composed of three columns: Voter ID, County, and Candidate. The goal is to create a Python script that analyzes the votes, and can calculate each of the following:
 
    - The total number of votes cast
    - A complete list of candidates who received votes
